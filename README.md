@@ -9,3 +9,4 @@ second-version of GithubStudy
 4. edit가 끝나면 당신은 master branch와 분리되는 새로운 branch를 만든 것이다. 이제 이 개선안에 대해 확인절차를 밟아야 한다. 이를 pull request라 한다. 참고로 pull request는 code 작성이 완전히 마무리 되지 않은 상태에서도 가능하다. 문제에 대한 토의가 필요하다거나 하는 경우 등 말이다.
 5. 스스로 pull request를 만들어서 스스로 적용시킬수도 있다. 해봐 해보는게 좋아
 6. 
+ 
