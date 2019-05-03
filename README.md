@@ -8,5 +8,4 @@ second-version of GithubStudy
 3. 새로운 branch를 만든 후, 이 파일에서 원래의 파일을 연다. 이때 이 파일은 원래 변경 전의 파일과는 별개로 저장된다.
 4. edit가 끝나면 당신은 master branch와 분리되는 새로운 branch를 만든 것이다. 이제 이 개선안에 대해 확인절차를 밟아야 한다. 이를 pull request라 한다. 참고로 pull request는 code 작성이 완전히 마무리 되지 않은 상태에서도 가능하다. 문제에 대한 토의가 필요하다거나 하는 경우 등 말이다.
 5. 스스로 pull request를 만들어서 스스로 적용시킬수도 있다. 해봐 해보는게 좋아
-6. 
- 
+//5까지!
